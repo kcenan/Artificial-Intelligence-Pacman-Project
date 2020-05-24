@@ -1,9 +1,9 @@
-# UC-Berkeley-AI-Pacman-Project
+# AI-Pacman-Project
 
 ======================================
 
 ## Intro
-[The Pacman Projects](http://ai.berkeley.edu/project_overview.html) by the [University of California, Berkeley](http://berkeley.edu/).
+[The Pacman Projects](http://ai.berkeley.edu/project_overview.html)
 
 ![Animated gif pacman game](http://ai.berkeley.edu/images/pacman_game.gif)
 
